@@ -135,6 +135,7 @@ export class Connect4 {
    }
 
     //ways  to win diagonally
+    // NOT YET IMPLEMENTED
     // TODO
 
     let player1_cells = this.playerCells(1)

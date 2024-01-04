@@ -1,4 +1,5 @@
-test solutions in Javascript
+Dev test solutions in Javascript.
+Note: Missing to add the combinations of cells to win diagonally. So it not possible to win diagonally for now.
 
 ## Question 1
 You live in the city of Cartesian where all roads are laid out in a perfect grid. 
